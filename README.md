@@ -68,5 +68,6 @@ This project demonstrates the use of Excel and Power BI for transaction data ana
 👨‍💻 Author
 
 Created as a Data Analytics Project using Microsoft Power BI.
-Dashboard Preview
-![Power BI Dashboard](Screenshots/Screenshot%20(Fraud_Detection))
+📊 Dashboard Preview
+
+"Power BI Dashboard" (Screenshot%28Fraud_Detection%29.png)
